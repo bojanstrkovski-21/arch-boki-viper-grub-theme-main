@@ -1,1 +1,1 @@
-# arch-boki-viper-grub-theme-main
+# Arch-Boki viper grub theme
